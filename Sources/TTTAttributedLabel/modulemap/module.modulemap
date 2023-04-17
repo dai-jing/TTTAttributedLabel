@@ -1,0 +1,6 @@
+module TTTAttributedLabel [system][extern_c] {
+  umbrella header "TTTAttributedLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
